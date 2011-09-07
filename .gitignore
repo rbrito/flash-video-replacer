@@ -1,4 +1,5 @@
 *.xpi
+.pc
 debian/files
 debian/xul-ext-flash-video-replacer
 debian/xul-ext-flash-video-replacer.*log
