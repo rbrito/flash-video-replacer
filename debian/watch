@@ -1,0 +1,4 @@
+version=3
+ftp://ftp.mozilla.org/pub/addons/161869/ \
+	flashvideoreplacer-((?:\d|\.)+)-fx\.xpi \
+	debian xpi-repack

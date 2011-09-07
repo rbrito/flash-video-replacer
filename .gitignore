@@ -1,0 +1,5 @@
+*.xpi
+debian/files
+debian/xul-ext-flash-video-replacer
+debian/xul-ext-flash-video-replacer.*log
+debian/xul-ext-flash-video-replacer.substvars
